@@ -1,0 +1,286 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+nav {
+  background-color: white;
+  width: 800px;
+  margin: auto;
+  color: darkgray;
+  padding-left: 90px;
+  border-radius: 0px 0px 10px 10px;
+  box-sizing: border-box;
+}
+
+header {
+  margin: 0;
+  padding: 0;
+  background-image: url("img/bg1.jpg");
+  background-size: cover;
+  background-position: 0px -170px;
+  height: 635px;
+}
+nav ul {
+  padding: 0;
+  overflow: hidden;
+  list-style-type: none;
+}
+
+nav > ul > li {
+  float: left;
+}
+
+nav li a {
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  width: 130px;
+  padding: 15px 0px;
+  color: #333;
+  background-color: white;
+}
+
+.active {
+  color: #ffe66d;
+}
+
+nav li a:hover {
+  color: #ffe66d;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown:hover .isi-dropdown {
+  display: block;
+}
+
+.isi-dropdown {
+  position: absolute;
+  display: none;
+  z-index: 1;
+  background-color: #f9f9f9;
+}
+
+.isi-dropdown a {
+  color: darkgray;
+}
+
+.isi-dropdown a:hover {
+  color: #ffe66d;
+  background-color: white;
+}
+
+.title {
+  text-align: left;
+  width: 800px;
+  margin: auto;
+  color: white;
+}
+
+.title h1 {
+  font-size: 58px;
+  margin-top: 150px;
+}
+.second-title {
+  font-size: 18px;
+  margin: 10px 0 20px 0;
+}
+
+.title a {
+  margin-top: 20px;
+  text-decoration: none;
+  color: darkgray;
+}
+
+.title a:hover {
+  color: white;
+}
+
+.title .search {
+  width: 800px;
+  height: 50px;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 20px;
+}
+
+input::placeholder {
+  padding-left: 20px;
+  font-size: 16px;
+}
+
+.title-trending {
+  height: 100px;
+  margin: 30px auto;
+  text-align: center;
+  width: 1300px;
+  background-color: #1a535c;
+  color: white;
+}
+
+.title-trending h1 {
+  padding: 20px 0px 5px 0px;
+}
+
+.trending-img {
+  height: 300px;
+  width: 286px;
+  background-color: bisque;
+  float: left;
+  margin: 25px;
+}
+
+.img1 {
+  background-image: url("img/bromo.jpg");
+  background-size: cover;
+}
+.img2 {
+  background-image: url("img/nusa-peninda.jpg");
+  background-size: cover;
+}
+.img3 {
+  background-image: url("img/brobudur.jpg");
+  background-size: cover;
+}
+.img4 {
+  background-image: url("img/candi.jpg");
+  background-size: cover;
+}
+
+.clean {
+  clear: left;
+}
+
+.sub-title {
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  margin-top: 200px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.btn-trip {
+  margin-top: 20px;
+  margin-left: 28px;
+  padding: 10px 80px;
+  background-color: #ffe66d;
+  color: black;
+  text-decoration: none;
+}
+
+footer {
+  height: 50px;
+  color: white;
+  background-color: #1a535c;
+  line-height: 50px;
+  text-align: center;
+}
+
+footer a {
+  color: #eee;
+  text-decoration: none;
+}
+
+/* --------------Tampilkan---------- */
+
+.isi-tampilkan {
+  width: 80%;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.isi-tampilkan table {
+  width: 100%;
+  border: 2px solid #1a535c;
+  border-collapse: collapse;
+}
+
+.isi-tampilkan th {
+  text-align: left;
+  background-color: #1a535c;
+  color: white;
+  padding: 10px;
+  height: 40px;
+}
+.isi-tampilkan td {
+  height: 40px;
+  padding: 10px;
+}
+
+/* End Tampilkan */
+
+/* --------------------------------- */
+
+/* Contact Page*/
+
+.img-contact {
+  padding: 0;
+  width: 50%;
+  float: left;
+  margin: 0 10px 30px 0;
+}
+
+.title-contact {
+  margin: 0;
+  padding: 0;
+  width: 40%;
+  float: left;
+  margin-left: 10px;
+}
+.img-contact img {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+/* ----End Conatc------ */
+
+/* ----Start Pencarian--- */
+
+.input-search {
+  width: 260px;
+  height: 40px;
+  margin-bottom: 10px;
+  border: 2px solid #1a535c;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.btn-submit {
+  height: 40px;
+  background-color: #ffe66d;
+  border: none;
+  width: 100px;
+  color: black;
+  border-radius: 10px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.btn-submit:hover {
+  background-color: #f7da49;
+}
+
+/* ---End Pencarian------ */
+
+/* ---Input ---- */
+.isi-input {
+  width: 30%;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.input-text {
+  width: 350px;
+  height: 20px;
+  margin: 5px 0px 10px 0px;
+  border: 2px solid #1a535c;
+  padding: 5px;
+}
+/* ----End Input---- */
