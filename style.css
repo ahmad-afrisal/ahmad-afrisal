@@ -284,3 +284,16 @@ footer a {
   padding: 5px;
 }
 /* ----End Input---- */
+
+.form-login {
+  width: 40%;
+  margin: auto;
+  margin-top: 200px;
+  border: 2px solid #1a535c;
+  border-radius: 5px;
+  padding: 30px;
+}
+
+.form-login h1 {
+  text-align: center;
+}
