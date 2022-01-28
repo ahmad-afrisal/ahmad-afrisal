@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Make With ISAL" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.ahmad-afrisal.com "Make With ISAL")
-[<img align="left" alt="AmertaCode | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCwyBVVRvT7q2bHnfbPjEwXg?view_as=subscriber "AmertaCode")
+[<img align="left" alt="AmertaCode | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCfcKDXnLy8UGIMk96i_rjUg?view_as=subscriber "AmertaCode")
 [<img align="left" alt="Ahmad Afrisal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ahmad_afrisal "@ahmad_afrisal")
 
 <br />
