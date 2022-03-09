@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to projects in my area
-- ⚡ Fun fact: I love to coffe, cats and dogs
+- ⚡ Fun fact: I love to coffe, cats and birds
 
 ### Connect with me:
 
